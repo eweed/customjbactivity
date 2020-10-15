@@ -7,8 +7,8 @@
 	"type": "RESTDECISION",
 	"lang": {
 		"en-US": {
-			"name": "Service Cloud Custom Split",
-			"description": "Custom Split activity that makes a decision based on data from Sales Cloud"
+			"name": "Custom JB Activity",
+			"description": "My Custom JB Activity that calls out to a Heroku address"
 		}
 	},
 	"workflowApiVersion": "1.1",
